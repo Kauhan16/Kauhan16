@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kauhan👋
 
-![Kauhan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeHalter&show_icons=true&theme=tokyonight)
+![Kauhan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauhan&show_icons=true&theme=tokyonight)
 
 ### Linguagens e framework que eu uso e estou aprendendo.
 
